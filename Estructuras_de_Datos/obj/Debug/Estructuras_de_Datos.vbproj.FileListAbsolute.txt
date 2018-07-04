@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2017\Projects\Estructuras_de_Datos\Estructuras_de_Datos\bin\Debug\Estructuras_de_Datos.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\Estructuras_de_Datos\Estructuras_de_Datos\bin\Debug\Estructuras_de_Datos.exe
+c:\users\asus\documents\visual studio 2017\Projects\Estructuras_de_Datos\Estructuras_de_Datos\bin\Debug\Estructuras_de_Datos.pdb
+c:\users\asus\documents\visual studio 2017\Projects\Estructuras_de_Datos\Estructuras_de_Datos\bin\Debug\Estructuras_de_Datos.xml
+c:\users\asus\documents\visual studio 2017\Projects\Estructuras_de_Datos\Estructuras_de_Datos\obj\Debug\Estructuras_de_Datos.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\Estructuras_de_Datos\Estructuras_de_Datos\obj\Debug\Estructuras_de_Datos.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\Estructuras_de_Datos\Estructuras_de_Datos\obj\Debug\Estructuras_de_Datos.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\Estructuras_de_Datos\Estructuras_de_Datos\obj\Debug\Estructuras_de_Datos.exe
+c:\users\asus\documents\visual studio 2017\Projects\Estructuras_de_Datos\Estructuras_de_Datos\obj\Debug\Estructuras_de_Datos.xml
+c:\users\asus\documents\visual studio 2017\Projects\Estructuras_de_Datos\Estructuras_de_Datos\obj\Debug\Estructuras_de_Datos.pdb
